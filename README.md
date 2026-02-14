@@ -1,51 +1,94 @@
-<h1 align="center">Hi 👋 I'm Rahul</h1>
+<h1 align="center">⚡ Hi 👋 I'm Rahul ⚡</h1>
 
 <p align="center">
-Open Source Contributor • Bitcoin Builder • Rust Learner
+Full Stack Developer • Web3 Builder • Open Source Explorer
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Modern+Web+Applications;Exploring+Web3+%26+Blockchain;Rust+%7C+JavaScript+Developer;MERN+Stack+Builder;Always+Learning+🚀&center=true&width=560&height=40">
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 💻 Passionate about systems & blockchain
-- 🔗 Exploring Bitcoin protocol internals
-- 🦀 Learning Rust for performance-focused development
-- 🌱 Actively contributing to open source
+```yaml
+name: Rahul
+role: Full Stack Developer
+focus:
+  - MERN Stack Development
+  - Web3 & Blockchain Applications
+  - Modern Web Technologies
+currently_learning:
+  - Rust
+  - Smart Contracts
+  - Systems Thinking
+mindset: "Build real things. Learn deeply. Improve continuously."
+```
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I Do
 
-<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust"/>
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+* 💻 Build full-stack applications using modern technologies
+* 🔗 Explore Web3 ecosystems (Solidity, Solana, Ethereum)
+* ⚡ Develop backend logic & scalable APIs
+* 🦀 Learning Rust for performance-focused development
+* 🌱 Continuously building and improving through projects
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" height="160"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,rust,react,nodejs,express,mongodb,prisma,solidity,solana,ethereum,html,css,git,github,vscode,postman,docker,linux&perline=11" />
 </p>
+
+
+## ⚡ Core Skills
+
+* 🌐 MERN Stack Development
+* 🔗 Blockchain & Smart Contracts
+* 🧩 Backend APIs & System Design
+* 🎨 Modern Frontend Development
+* 🗄 Database Design (MongoDB + Prisma)
+* 🧠 Problem Solving & Continuous Learning
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
-### 🚀 Bitcoin Transaction Explorer
-Minimal blockchain explorer focusing on transaction decoding.
+### 🏗️ LandChain
 
-### ⚡ Async Fetch Utility
-Custom timeout-enabled fetch implementation with tests.
+Blockchain-based land / real-estate platform focused on decentralized ownership and transparency.
 
-### 🧠 Script Interpreter
-Basic Bitcoin Script opcode implementation.
+**Tech:** MERN Stack • Solidity • Web3 • MongoDB • Prisma
+
+---
+
+
+## 🧭 Developer Philosophy
+
+```js
+while (true) {
+  learn();
+  build();
+  improve();
+}
+```
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ Building useful things, one project at a time ⭐
+</p>
